@@ -1,0 +1,1 @@
+//  Create an array of names and use `some()` and `every()` to test a condition (e.g., all names longer than 3 chars).
